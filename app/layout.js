@@ -1,4 +1,4 @@
-import './globals.css'
+ppimport './globals.css'
 import { Tajawal, Poppins } from 'next/font/google'
 import { LanguageProvider } from '@/context/LanguageContext'
 
@@ -16,7 +16,7 @@ const poppins = Poppins({
 
 export const metadata = {
   title: 'Kafu Agency',
-  description: 'Leading Digital Marketing Agency in Jordan',
+  description: 'Leading Digital Marketing Agency in UAE',
 }
 
 export default function RootLayout({ children }) {
